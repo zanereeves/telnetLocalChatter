@@ -1,0 +1,4 @@
+/Users/zanereeves/CLionProjects/telnetChat/cmake-build-debug/CMakeFiles/telnetChat.dir
+/Users/zanereeves/CLionProjects/telnetChat/cmake-build-debug/CMakeFiles/run.dir
+/Users/zanereeves/CLionProjects/telnetChat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zanereeves/CLionProjects/telnetChat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
